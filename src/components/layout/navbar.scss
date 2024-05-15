@@ -1,0 +1,42 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: var(--navbar_brown);
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.container {
+  background-image: url("/src/assets/penguins_bookshelf.jpg");
+  background-repeat: repeat-x; /* Repeat the image horizontally */
+  background-position: top; /* Center the image */
+  background-size: calc(
+    20rem * 9 / 16
+  ); /* Maintain the original size of the image */
+  /*position: relative; /* Ensure the container is positioned relative */
+  min-height: calc(
+    20rem * 9 / 16
+  ); /* Make sure the container takes at least the full viewport height */
+}
+
+.pathSection {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 1rem;
+  max-width: 100%;
+}
+
+.path {
+  color: white;
+  font-size: 21px;
+  text-decoration: none;
+  margin-right: 3rem;
+  &__title {
+    font-size: 32px;
+    max-width: fit-content;
+    margin-left: 3rem;
+  }
+}
