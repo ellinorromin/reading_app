@@ -1,0 +1,18 @@
+.smallBookCard {
+  background-color: var(--cards_transparent_white);
+  margin: 1rem;
+  padding: 1rem;
+  width: 20rem;
+  display: flex;
+  border-radius: 3px;
+  h1 {
+    cursor: pointer;
+  }
+  img {
+    max-width: 7rem;
+  }
+}
+
+.smallBookCardInfo {
+  margin: 0.5rem 1rem;
+}

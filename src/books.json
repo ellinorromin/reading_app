@@ -1,0 +1,46 @@
+[
+  {
+    "title": "The Vampire Lestat",
+    "author": "Anne Rice",
+    "status": "currently reading",
+    "cover": "/src/assets/the_vampire_lestat_anne_rice.jpg",
+    "userComments": {
+      "plot": "The sequel to Interview with the Vampire, where Lestat gives us his point of view.",
+      "startedReading": "2024-05-01",
+      "finishedReading": ""
+    }
+  },
+  {
+    "title": "Heroes",
+    "author": "Stephen Fry",
+    "status": "to read",
+    "cover": "/src/assets/heroes_stephen_fry.jpg",
+    "userComments": {
+      "plot": "",
+      "startedReading": "",
+      "finishedReading": ""
+    }
+  },
+  {
+    "title": "Sagoskeppet",
+    "author": "Claes-Göran Wetterholm",
+    "status": "currently reading",
+    "cover": "/src/assets/sagoskeppet_wetterholm.jpg",
+    "userComments": {
+      "plot": "Random facts about the myths around Titanic. Did you know you can buy coal from the wreck?",
+      "startedReading": "2024-01-04",
+      "finishedReading": ""
+    }
+  },
+  {
+    "title": "I Capture the Castle",
+    "author": "Dodie Smith",
+    "status": "read",
+    "cover": "/src/assets/I_capture_the_castle_dodie_smith.jpg",
+    "userComments": {
+      "plot": "",
+      "startedReading": "",
+      "finishedReading": ""
+    }
+  }
+]

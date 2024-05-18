@@ -1,0 +1,15 @@
+.largeBookCard {
+  background-color: var(--cards_transparent_white);
+  margin: 3rem;
+  padding: 2rem;
+  display: flex;
+  border-radius: 3px;
+
+  img {
+    max-width: 30rem;
+  }
+}
+
+.largeBookCardInfo {
+  margin: 0.5rem 1rem;
+}

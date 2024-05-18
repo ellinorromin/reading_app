@@ -18,6 +18,9 @@ function Navbar() {
           <NavLink to="/list" className={"path"}>
             Past Books
           </NavLink>
+          <NavLink to="/add" className={"path"}>
+            Add Book
+          </NavLink>
         </section>
       </nav>
     </header>
