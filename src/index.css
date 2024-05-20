@@ -11,6 +11,7 @@
   --navbar_brown: rgba(73, 49, 30, 0.7);
   --background_beige: rgba(213, 199, 172, 1);
   --cards_transparent_white: rgba(255, 255, 255, 0.3);
+  --input_transparent_grey: rgba(217, 217, 217, 0.5);
 }
 
 body {
