@@ -10,7 +10,6 @@ function BookPage() {
     <>
       <Navbar />
       <main>
-        <h1>Välkommen till boksidan!</h1>
         <LargeBookCard book={book} />
       </main>
     </>
